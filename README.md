@@ -12,4 +12,4 @@
 	 2. 方便规划可寻址区域
 	 3. 方便挂载贴图
 
-![](DOC/minimap.gif)
+![](Doc/minimap.gif)
